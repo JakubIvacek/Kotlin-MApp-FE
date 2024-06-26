@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">MoveNow</string>
+    <string name="username">Prezyvka</string>
+    <string name="password">Heslo</string>
+    <string name="enterYourUsername">Zadaj svoju prezyvku</string>
+    <string name="enterYourPassword">Zadaj svoje heslo</string>
+    <string name="login">Prihlasenie</string>
+    <string name="signup">Registracia</string>
+    <string name="biometricLogin">Prihlasenie Biometriou</string>
+    <string name="fullName">Celé Meno</string>
+    <string name="enterfullName">Zadaj svoje cele meno</string>
+    <string name="age">Vek</string>
+    <string name="enterage">Zadaj svoj vek</string>
+    <string name="createaccount">Vytvoriť účet</string>
+    <string name="createaccountWB">Vytvoriť účet + Ulož Biometriu</string>
+    <string name="wrongCredentials">Nespravna prezyvka alebo heslo</string>
+    <string name="noConnection">Žiadne pripojenie na internet</string>
+    <string name="home">Domov</string>
+    <string name="friends">Priatelia</string>
+    <string name="profile">Profil</string>
+    <string name="history">Historia</string>
+    <string name="track">Track</string>
+    <string name="noPosts">Žiadne príspevky</string>
+    <string name="welcomeBack">Vitaj späť, </string>
+    <string name="friendRemoved">Priatel odstránený</string>
+    <string name="friendAdd">Priatel bol pridaný</string>
+    <string name="addFriend">Pridanie Priatela</string>
+    <string name="noFriends">Žiadny používatelia na pridnaie</string>
+    <string name="pickActivity">Na čo máš dnes chuť?</string>
+    <string name="hiking">Turistika</string>
+    <string name="cycling">Bicykel</string>
+    <string name="running">Beh</string>
+    <string name="walking">Chôdza</string>
+    <string name="editProfie">Upraviť profil</string>
+    <string name="save">Uložiť</string>
+    <string name="logout">Odhlásiť sa</string>
+    <string name="dark">Tmavý</string>
+    <string name="light">Svetlý</string>
+    <string name="trainingDetails">Detaily Tréningu</string>
+    <string name="duration">Trvanie</string>
+    <string name="avgSpeed">Rýchlosť</string>
+    <string name="distance">Vzdialenosť</string>
+    <string name="calories">Kalórie</string>
+</resources>

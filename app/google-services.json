@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "611148643804",
+    "project_id": "movenow-419011",
+    "storage_bucket": "movenow-419011.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611148643804:android:4ad4d26163688de2186319",
+        "android_client_info": {
+          "package_name": "stu.fiit.mtaa.fe.movenow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHgb6z_d19VgOK1pVcuxxdv93sHiTceUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
